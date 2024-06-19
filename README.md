@@ -52,3 +52,100 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+SOLUTION:
+
+
+Task 1: I am to Select and Install Windows 11
+Objective: I chose to install Windows 11 to ensure a modern and stable operating system for my development needs.
+Steps:
+1.	Visiting Windows 11 Download Page: I went to https://www.microsoft.com/software-download/windows11.
+2.	Downloading Windows 11: I clicked on the "Download Windows 11 Disk Image (ISO)" button, selected my language, and clicked "Confirm."
+3.	Creating of Installation Media: I used the "Windows 11 Installation Media" tool to create a bootable USB drive.
+4.	Install Windows 11: I booted from the USB drive and followed the on-screen instructions to install Windows 11. I ensured I had a valid license.
+Screenshot: (Include a screenshot of the Windows 11 installation process)
+________________________________________
+Task 2: Install Visual Studio Code
+Objective: I decided to install Visual Studio Code (VS Code) as my text editor and IDE.
+Steps:
+1.	Download Visual Studio Code: I visited https://code.visualstudio.com/Download.
+2.	Install Visual Studio Code: I clicked on the downloaded file and followed the installation instructions. I chose the Windows 64-bit installer.
+3.	Launch VS Code: I opened VS Code and familiarized myself with the interface.
+Screenshot: (Include a screenshot of the VS Code welcome screen)
+________________________________________
+Task 3: Set Up Version Control System
+Objective: I installed Git and created a GitHub account for version control.
+Steps:
+1.	Install Git: I downloaded Git from https://git-scm.com/download/win and installed it. I chose the default options.
+2.	Configure Git: I opened Git Bash and configured my Git username and emai
+    
+ 
+
+3	Create a GitHub Account: I signed up for a new account on https://github.com.
+4	Initialize a Git Repository: I navigated to my project directory and initialized a Git repository:
+
+
+ 5. Make Your First Commit: I added files to the repository and made my first commit:
+
+ 
+Screenshot: (Include a screenshot of the Git configuration and initial commit)
+
+Task 4: Install Necessary Programming Languages and Runtimes
+Objective: I installed Python and ensured I had the necessary tools to build and execute my code.
+
+Steps:
+1.	Install Python: I went to https://www.python.org/downloads/windows/ and downloaded the latest version of Python. I installed it and checked the option to add Python to my PATH.
+2.	Verify Installation: I opened Command Prompt and ran python --version to verify the installation.
+Screenshot: (Include a screenshot of the Python installation and version check)
+________________________________________
+Task 5: Install Package Managers
+Objective: I installed pip, the package manager for Python.
+
+ 
+Screenshot: (Include a screenshot of the pip version check and upgrade)
+________________________________________
+Task 6: Configure a Database (MySQL)
+Objective: I downloaded and installed MySQL for database management.
+Steps:
+1.	
+Download MySQL: I visited https://dev.mysql.com/downloads/windows/installer/5.7.html and downloaded the MySQL Installer.
+2.	Install MySQL: I ran the installer and followed the instructions to install MySQL. I chose the appropriate version for my system and configured it as needed.
+3.	Verify Installation: I opened Command Prompt and ran mysql --version to verify the installation.
+Screenshot: (Include a screenshot of the MySQL installation and version check)
+________________________________________
+Task 7: Set Up Development Environments and Virtualization (Optional)
+Objective: I installed Docker for containerization and virtualization.
+
+Steps:
+1.	Install Docker: I went to https://www.docker.com/get-started and followed the instructions to install Docker Desktop for Windows.
+2.	Verify Installation: I opened Command Prompt and ran docker --version to verify the installation.
+Screenshot: (Include a screenshot of the Docker installation and version check)
+________________________________________
+Task 8: Explore Extensions and Plugins
+Objective: I enhanced VS Code functionality with extensions.
+Steps:
+1.	Open VS Code: I launched Visual Studio Code.
+2.	Install Extensions: I went to the Extensions view (Ctrl+Shift+X) and searched for extensions like "Python", "GitLens", "Prettier", etc. I installed them.
+3.	Configure Extensions: I customized the extensions' settings as needed for my workflow.
+Screenshot: (Include a screenshot of the VS Code Extensions view)
+________________________________________
+Task 9: Document My Setup
+Objective: I created a comprehensive document detailing the setup process.
+Steps:
+1.	Create a Document: I used a text editor to create a document.
+2.	Include Step-by-Step Instructions: I documented each step I took to set up my development environment.
+1.	Add Screenshots: I included screenshots where necessary to illustrate important steps.
+2.	Reflect on Challenges: I wrote about any challenges I faced during the setup and how I overcame them.
+Screenshot: (Include a screenshot of the final setup document)
+________________________________________
+Deliverables
+1.	Document: I saved my setup document in PDF format.
+2.	GitHub Repository: I pushed my sample project to GitHub:
+
+ 
+1.	Reflection: I included my reflection on challenges and solutions in the document.
+Submission
+Submit Document and GitHub Repository Link: I submitted my document and the link to my GitHub repository through the designated platform or email to the instructor by the specified deadline.
+
+
+
